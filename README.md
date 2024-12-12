@@ -18,7 +18,7 @@ This script automates the installation and configuration of a Squid proxy server
 
 ```bash
 # Download the script
-sudo wget https://gist.github.com/drhema/31652c72c0be1bc43c7d5082bbfe84cd/raw/bea0d2fe0652981dba658b7122822a509f1d87f4/setup-proxy.sh
+sudo wget https://gist.githubusercontent.com/drhema/31652c72c0be1bc43c7d5082bbfe84cd/raw/5a822ef3d3493b87c3038793f3d545e6461eef1c/setup-proxy.sh
 
 # Make it executable
 chmod +x setup-proxy.sh
