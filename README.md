@@ -145,13 +145,13 @@ Contributions are welcome:
 4. Push to the branch
 5. Create a new Pull Request
 
-## Updates
+## Unistall
 
 Latest update: December 2024
-- Added IPv4/IPv6 support
-- Improved error handling
-- Added firewall configuration
-- Enhanced security settings
+- sudo apt remove squid
+- sudo apt purge squid
+- sudo rm -rf /etc/squid
+  
 
 ---
 Created by drhema (https://github.com/drhema)
